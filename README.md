@@ -1,3 +1,19 @@
+## Sitio Web construido con las siguientes tecnologías.
+- React
+
+¿Quieres ser contribuidor? Haz un [pull request](https://github.com/SanRafaelVeracruz/sanrafaelveracruz.github.io/pulls)
+
+Proyecto dirigido por [Oueilhe Studios](https://github.com/OueilheStudios)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
