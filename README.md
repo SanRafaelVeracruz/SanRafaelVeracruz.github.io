@@ -3,4 +3,4 @@ Este proyecto es mantenido por [Aerwix](https://github.com/Aerwix), si deseas co
 ToDo
 - Historia
 - Tiendas Locales
-- Comida/Restaurants con directorio de Telefono
+- Comida/Restaurantes con **directorio de Telefono**
