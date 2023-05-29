@@ -4,3 +4,7 @@ Este proyecto es mantenido por [Aerwix](https://github.com/Aerwix), si deseas co
 - Historia
 - Negocios Locales
 - Comida/Restaurantes con **directorio de Telefono**
+
+## 🌸 Eventos Anuales 🌸
+- Carnaval
+- Naranjada
