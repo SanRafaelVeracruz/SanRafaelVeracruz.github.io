@@ -8,3 +8,7 @@ Este proyecto es mantenido por [Aerwix](https://github.com/Aerwix), si deseas co
 ## 🌸 Eventos Anuales 🌸
 - Carnaval
 - Naranjada
+
+
+## Objetivo
+Crear un sitio en HTML, CSS y JS para después migrar tal vez a React
