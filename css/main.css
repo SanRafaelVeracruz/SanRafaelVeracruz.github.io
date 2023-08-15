@@ -3,6 +3,17 @@ body {
 	font-family: 'Open Sans',Arial,sans-serif;
 }
 
+.container-footer{
+	background-color: #324C64;
+	opacity: 50%;
+	display: flex;
+}
+.copyright {
+	text-align: center;
+	color: #26d46f;
+	
+}
+
 .container {
 	width: 94%;
 	margin: 0 auto;
