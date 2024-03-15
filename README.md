@@ -7,7 +7,6 @@ Este proyecto es mantenido por [Aerwix](https://github.com/Aerwix), si deseas co
 
 ## 🌸 Eventos Anuales 🌸
 - Carnaval
-- Naranjada
 
 
 ## Objetivo
