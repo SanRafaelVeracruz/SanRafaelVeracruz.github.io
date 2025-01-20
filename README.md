@@ -6,7 +6,7 @@ Este proyecto es mantenido por [Aerwix](https://github.com/Aerwix), si deseas co
 - Comida/Restaurantes con **directorio de Telefono**
 
 ## 🌸 Eventos Anuales 🌸
-- Carnaval
+- Carnaval San Rafeal
 
 
 ## Objetivo
